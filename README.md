@@ -2,8 +2,7 @@
 This repository contains software for processing the UK Biobank accelerometer datasets to generate estimates of a kinetic energy harvester output. This code allows output to be stratified by range of factors as provided by the metadata in the UK Biobank.
 
 If using this code please cite the paper:
-[C. Beach and A. Casson, “Estimation of kinetic energy harvesting potential for self-powered wearable devices with 67,000 participants from the UK Biobank,” *TechRxiv*, 11-Jun-2021, doi: 10.36227/techrxiv.14662713]
-(https://doi.org/10.36227/techrxiv.14662713)
+[C. Beach and A. Casson, “Estimation of kinetic energy harvesting potential for self-powered wearable devices with 67,000 participants from the UK Biobank,” *TechRxiv*, 11-Jun-2021, doi: 10.36227/techrxiv.14662713](https://doi.org/10.36227/techrxiv.14662713)
 
 This software is developed from our original fork of the [biobankAccelerometerAnalysis](https://github.com/activityMonitoring/biobankAccelerometerAnalysis) from the University of Oxford, and our version of this code developed for processing on University of Manchester high-performance computing infrastructure, [biobankActivityCSF](https://github.com/CASSON-LAB/BiobankActivityCSF)
 
