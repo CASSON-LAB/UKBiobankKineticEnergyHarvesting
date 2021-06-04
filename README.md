@@ -2,9 +2,10 @@
 This repository contains software for processing the UK Biobank accelerometer datasets to generate estimates of a kinetic energy harvester output. This code allows output to be stratified by range of factors as provided by the metadata in the UK Biobank.
 
 If using this code please cite the paper:
-[C. Beach and A. J. Casson, "Estimation of kinetic energy harvesting potential for self-powered wearable devices with 67,000 participants from the UK Biobank," in *IEEE*, vol. x, no. x, pp. x–y, 2021, doi: DOI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
+[C. Beach and A. Casson, “Estimation of kinetic energy harvesting potential for self-powered wearable devices with 67,000 participants from the UK Biobank,” *TechRxiv*, 11-Jun-2021, doi: 10.36227/techrxiv.14662713]
+(https://doi.org/10.36227/techrxiv.14662713)
 
-This software is developed from our origional fork of the [biobankAccelerometerAnalysis](https://github.com/activityMonitoring/biobankAccelerometerAnalysis) from the University of Oxford, and our version of this code developed for processing on University of Manchester high-performance computing infrastructure, [biobankActivityCSF](https://github.com/CASSON-LAB/BiobankActivityCSF)
+This software is developed from our original fork of the [biobankAccelerometerAnalysis](https://github.com/activityMonitoring/biobankAccelerometerAnalysis) from the University of Oxford, and our version of this code developed for processing on University of Manchester high-performance computing infrastructure, [biobankActivityCSF](https://github.com/CASSON-LAB/BiobankActivityCSF)
 
 This code has been developed for running on the [CSF3](http://ri.itservices.manchester.ac.uk/csf3/) at the University of Manchester, which is a High Performance Computing (HPC) cluster, running SGE (a batch scheduling system) on Linux. However, with minimial modification it is possible to run this code on other HPC systems (and on the desktop, but this will take a very long time to process all UK Biobank files).
 
